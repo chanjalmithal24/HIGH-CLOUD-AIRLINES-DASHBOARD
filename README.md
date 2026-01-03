@@ -100,6 +100,3 @@ These slicers allow users to dynamically explore data and generate customized in
 
 ---
 
-## 🚀 Business Value
-
-* Supports data-driven **capa
