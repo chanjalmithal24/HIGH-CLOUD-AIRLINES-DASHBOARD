@@ -2,6 +2,16 @@
 
 ## 📌 Project Overview
 
+## 🖼️ Dashboard Preview
+
+### Power BI Dashboard
+
+![High Cloud Airlines Power BI Dashboard](Power BI Dasboard.png)
+
+### Tableau Dashboard
+
+![High Cloud Airlines Tableau Dashboard](Tableau Dashboard.png)
+
 The **High Cloud Air-Lines Analytics Dashboard** is an interactive Excel-based business intelligence dashboard developed to analyze airline operations, passenger traffic, route efficiency, and seat utilization. The dashboard provides a consolidated view of key performance indicators (KPIs) and trends, enabling data-driven decision-making for airline operations and strategy.
 
 This project highlights practical skills in **data analysis, visualization, KPI reporting, and dashboard design** using real-world airline data concepts.
@@ -100,3 +110,33 @@ These slicers allow users to dynamically explore data and generate customized in
 
 ---
 
+## 🚀 Business Value
+
+* Supports data-driven **capacity and route planning**
+* Helps improve **operational efficiency and seat utilization**
+* Enables performance benchmarking across airlines
+* Assists stakeholders in identifying demand patterns
+
+---
+
+## 📂 Use Case
+
+This dashboard can be used by:
+
+* Airline Operations & Planning Teams
+* Business and Data Analysts
+* Aviation Strategy Teams
+* As a **portfolio project** for Data Analyst roles
+
+---
+
+## 👩‍💻 Author
+
+**Chanjal M**
+Aspiring Data Analyst | Excel • SQL • Power BI • Tableau
+
+---
+
+## 📎 Disclaimer
+
+This dashboard is created for **educational and portfolio purposes** only. The data used is sample/representative and does not belong to any official airline.
