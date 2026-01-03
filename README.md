@@ -5,7 +5,7 @@
 ## 🖼️ Dashboard Preview
 
 ### Power BI Dashboard
-<img src="./Power BI Dashboard.png" alt="High Cloud Airlines Power BI Dashboard" width="850">
+<img src="./Power BI Dasboard.png" alt="High Cloud Airlines Power BI Dashboard" width="850">
 
 ### Tableau Dashboard
 <img src="./Tableau Dashboard.png" alt="High Cloud Airlines Tableau Dashboard" width="850">
