@@ -6,11 +6,11 @@
 
 ### Power BI Dashboard
 
-![High Cloud Airlines Power BI Dashboard](Power BI Dasboard.png)
+<img src="./Power BI Dashboard.png" alt="Overview Dashboard" width="850">
 
 ### Tableau Dashboard
 
-![High Cloud Airlines Tableau Dashboard](Tableau Dashboard.png)
+<img src="./Tableau Dashboard.png" alt="Overview Dashboard" width="850">
 
 The **High Cloud Air-Lines Analytics Dashboard** is an interactive Excel-based business intelligence dashboard developed to analyze airline operations, passenger traffic, route efficiency, and seat utilization. The dashboard provides a consolidated view of key performance indicators (KPIs) and trends, enabling data-driven decision-making for airline operations and strategy.
 
